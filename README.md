@@ -1,4 +1,4 @@
-[![MasterHead](https://codenation.org/wp-content/uploads/2018/10/FirstStepConnect.gif)]
+[![MasterHead](https://codenation.org/wp-content/uploads/2018/10/FirstStepConnect.gif)](https://lahirugayashan.github.io)
 
 <h1 align="center">Hi 👋, I'm Lahiru Gayashan</h1>
 <h3 align="center">I am a web designer and web developer in Sri Lanka</h3>
