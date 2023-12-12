@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MEARN ,Flutter  **
 
 - 📫 How to reach me **gayashan732@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lahiru gayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru gayashan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lahiru-gayashan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru gayashan" height="30" width="40" /></a>
 <a href="https://fb.com/lahiru gayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru gayashan" height="30" width="40" /></a>
 <a href="https://instagram.com/gayashan_kl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayashan_kl_" height="30" width="40" /></a>
 </p>
